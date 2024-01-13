@@ -4,7 +4,7 @@ I'm [Md. Ruhul Amin Khan](https://ruhulamin-portfolio.web.app), a passionate sof
 
 ## 🔭 Current Work
 
-- Working as a Software Developer at [EFG Tech](https://efgtech.com.bd/home), where I contribute to the development of their flagship product.
+- Working as a Full Stack Developer at [Pakiza Software Limited](https://pakizasoftware.com/), where I contribute to the development of their flagship product.
 - Building a personal project called [RetailPOS](https://cherry-pos.web.app/), an open-source platform that aims to simplify Retails actions.
 
 ## 💻 Tech Stack:
